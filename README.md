@@ -17,7 +17,3 @@ RS-LiDAR-16 ROS Rviz Test
 
 <Test image 3>
 
-![image](https://user-images.githubusercontent.com/47591345/61578669-86852580-ab35-11e9-9793-57bcaa21d8c2.png)
-
-<Test image 4>
-
